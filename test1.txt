@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 5A75-3243
+
+ Directory of C:\Hiral\Training\Practice\MyProjects
+
+12/20/2018  04:19 PM    <DIR>          .
+12/20/2018  04:19 PM    <DIR>          ..
+12/20/2018  04:19 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  737,131,982,848 bytes free
